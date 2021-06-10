@@ -10,6 +10,25 @@ body {
 
 @import url(//db.onlinewebfonts.com/c/0fddb08144cea533dcd3d39388b7ffbe?family=GrandSlang+Roman);
 
+@font-face {
+  font-family: "GrandSlang Roman";
+  src: url("http://db.onlinewebfonts.com/t/0fddb08144cea533dcd3d39388b7ffbe.eot"); /* IE9*/
+  src: url("http://db.onlinewebfonts.com/t/0fddb08144cea533dcd3d39388b7ffbe.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */
+      url("http://db.onlinewebfonts.com/t/0fddb08144cea533dcd3d39388b7ffbe.woff2")
+      format("woff2"),
+    /* chrome firefox */
+      url("http://db.onlinewebfonts.com/t/0fddb08144cea533dcd3d39388b7ffbe.woff")
+      format("woff"),
+    /* chrome firefox */
+      url("http://db.onlinewebfonts.com/t/0fddb08144cea533dcd3d39388b7ffbe.ttf")
+      format("truetype"),
+    /* chrome firefox opera Safari, Android, iOS 4.2+*/
+      url("http://db.onlinewebfonts.com/t/0fddb08144cea533dcd3d39388b7ffbe.svg#GrandSlang Roman")
+      format("svg"); /* iOS 4.1- */
+}
+
 .home {
   overflow: hidden;
 }
