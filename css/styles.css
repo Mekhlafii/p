@@ -137,7 +137,7 @@ nav {
   .container__item {
     width: 240px;
     height: 250px;
-    margin: 50px 100px 20px 40px;
+    margin: 50px 100px 20px 10px;
   }
 
   .container__item-header h1 {
