@@ -150,6 +150,9 @@ nav {
     font-size: 40px;
     bottom: 20px;
   }
+  .cursor-follow1 {
+    display: none;
+  }
 }
 
 /* about page styles */
