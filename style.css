@@ -10,7 +10,7 @@ body {
 
 @font-face {
   font-family: "GrandSlang Roman";
-  src: url(../fonts/GrandSlang\ Roman.ttf);
+  src: url(./fonts/GrandSlang\ Roman.ttf);
 }
 
 /* menu */
